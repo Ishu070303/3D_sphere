@@ -1,3 +1,6 @@
-# 3D Sphere
+# 3D Sphere Model
 
-### It's a beginner 3D sphere project that is created by using three.js (javascript library) and gsap (used for handling differnt animation at same time).
+It's a beginner 3D sphere project that is created by using three.js (javascript library) and gsap (used for handling differnt animation at same time)🌚.
+
+## Deployment Link
+
