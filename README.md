@@ -3,6 +3,7 @@
 It's a beginner 3D sphere project that is created by using three.js (javascript library) and gsap (used for handling differnt animation at same time)🌚.
 
 ## Deployment Link
+[https://3dmodelsphere.netlify.app/](https://3dmodelsphere.netlify.app/)
 
 ## Installation
 
